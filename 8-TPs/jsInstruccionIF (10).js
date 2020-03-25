@@ -9,6 +9,7 @@ function mostrar()
 	numeroAleatorio *= maximoExcluido - minimoIncluido;
 	numeroAleatorio = Math.floor(numeroAleatorio);
 	numeroAleatorio += minimoIncluido;
+​
 	alert(numeroAleatorio);
 }
 //FIN DE LA FUNCIÓN
